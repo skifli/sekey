@@ -1,0 +1,17 @@
+Component,Description,Notes,Quantity,Price,Shipping,Provider,Link
+nrf52840 Dongle,,Not on AliExpress,2,£15.20,£12,Mouser,https://www.mouser.co.uk/ProductDetail/949-NRF52840-DONGLE
+ATTINY85-20F,SMD one,Couldn't find this SMD one on AliExpress either,2,£2.18,,,https://www.mouser.co.uk/ProductDetail/556-ATTINY85-20SF
+Total (Mouser),,,,£29.38,,,
+,,,,,,,
+JST SH 1.00mm,Connector,To get a connector to solder to the PCB,,£3.82,,AliExpress,https://www.aliexpress.com/item/1005005787575387.html?spm=a2g0o.cart.0.0.250838daRYyNcO&mp=1&pdp_npi=5%40dis%21GBP%21GBP%203.82%21GBP%201.88%21%21GBP%201.88%21%21%21%402103894417539834344687334e8897%2112000034353747510%21ct%21UK%21-1%21%211%210
+Ceramic Capacitor,,Needed when writing code to the ATTiny apparently,,£3.30,,,https://www.aliexpress.com/item/1005007540183265.html?spm=a2g0o.cart.0.0.250838daRYyNcO&mp=1&pdp_npi=5%40dis%21GBP%21GBP%203.30%21GBP%201.65%21%21GBP%201.65%21%21%21%402103894417539834344687334e8897%2112000041214105032%21ct%21UK%21-1%21%211%210
+Official UNO R3,,"Needed to write code to the ATTinty, luckily very cheap",,£5.82,,,https://www.aliexpress.com/item/1005006967612048.html?spm=a2g0o.cart.0.0.250838daRYyNcO&mp=1&pdp_npi=5%40dis%21GBP%21GBP%205.82%21GBP%202.91%21%21GBP%202.91%21%21%21%402103894417539834344687334e8897%2112000038885975725%21ct%21UK%21-1%21%211%210
+Fingerprint Sensor,,,2,£11.69,£4.68,,https://www.aliexpress.com/item/4000251947139.html?spm=a2g0o.cart.0.0.250838daRYyNcO&mp=1&pdp_npi=5%40dis%21GBP%21GBP%2011.69%21GBP%2011.69%21%21GBP%2011.69%21%21%21%402103894417539834344687334e8897%2110000001058665065%21ct%21UK%21-1%21%212%210
+Resistor,10K,"Again when writing code, helps prevent fluctuations",1,£0.47,£2.46,,https://www.aliexpress.com/item/1005001439536671.html?spm=a2g0o.cart.0.0.250838daRYyNcO&mp=1&pdp_npi=5%40dis%21GBP%21GBP%200.47%21GBP%200.47%21%21GBP%200.47%21%21%21%402103894417539834344687334e8897%2112000025664448674%21ct%21UK%21-1%21%211%210
+Programmer Test clip,SOP8,To hold the ATTiny in the breadboard when writing code to it cus its SMD of course,1,£0.99,£2.75,,
+Total (AliExpress),,,,£35.98,,,
+,,,,,,,
+PCB,,,,£1.58,£1.13,,
+,,,,£2.71,,,
+,,,,,,,
+TOTAL,,,,£68.07,,,
